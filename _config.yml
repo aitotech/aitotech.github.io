@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+title: 张牧之 Blog
+SEOTitle: 张牧之的博客 | muzhi Blog
+header-img: img/desk-3.jpg
+email: luwei201904@gmail.com
+description: "这里是 @张牧之 的个人博客，与你一起发现更大的世界 | 要做一个有高级趣味的人"
+keyword: "牧之, 张牧之, zhang, 鬼栈, muzhi, @muzhi, 张牧之的博客, 牧之 Blog, 博客, 个人网站, 互联网, Web,  React Native, 设计"
+url: "https://aitotech.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
